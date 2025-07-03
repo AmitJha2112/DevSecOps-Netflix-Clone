@@ -58,3 +58,7 @@ web_modules
 .vuepress/dist
 .nuxt
 .next
+
+
+# Prevent tracking of nested Git repos
+DevSecOps-Project/.git
