@@ -4,27 +4,21 @@
   <img src="./public/assets/DevSecOps.png" alt="DevSecOps Project Flow" width="100%">
 </div>
 
-## 🏠 Netflix Clone – Home Page Preview
+# Assets in `/public/assets` Folder
 
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Netflix Clone Home UI" width="100%">
-</div>
+This folder contains the following image assets used in the project:
 
-## ⚙️ Jenkins CI/CD Pipeline
+| Image Name          | Preview                         |
+|---------------------|--------------------------------|
+| DevSecOps.png       | ![DevSecOps](./DevSecOps.png)  |
+| detail-modal.png    | ![detail-modal](./detail-modal.png) |
+| favicon.png         | ![favicon](./favicon.png)       |
+| grid-genre.png      | ![grid-genre](./grid-genre.png) |
+| home-page.png       | ![home-page](./home-page.png)   |
+| mini-portal.png     | ![mini-portal](./mini-portal.png) |
+| netflix-logo.png    | ![netflix-logo](./netflix-logo.png) |
+| watch.png           | ![watch](./watch.png)            |
 
-<div align="center">
-  <img src="./public/assets/jenkins-pipeline.png" alt="Jenkins Pipeline" width="100%">
-</div>
+---
 
-## 📈 Monitoring Dashboard
-
-<div align="center">
-  <img src="./public/assets/prometheus-grafana.png" alt="Monitoring Dashboard" width="100%">
-</div>
-
-## 🚀 Argo CD – GitOps View
-
-<div align="center">
-  <img src="./public/assets/argocd.png" alt="Argo CD View" width="100%">
-</div>
-
+These images are used across various parts of the project UI for logos, icons, and page designs.
