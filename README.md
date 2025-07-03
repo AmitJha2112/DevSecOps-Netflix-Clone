@@ -6,6 +6,11 @@ This project is a secure Netflix Clone deployed using Kubernetes, Docker, GitHub
 ---
 
 ## 📸 Screenshots
+
+### 🚀 DevSecOps Pipeline Preview
+
+![DevSecOps](public/assets/DevSecOps.png)
+
 ### 📺 Mini Portal
 
 ![Mini Portal](public/assets/mini-portal.png)
@@ -25,12 +30,6 @@ This project is a secure Netflix Clone deployed using Kubernetes, Docker, GitHub
 ### 🎞️ Detail Modal
 
 ![Detail Modal](public/assets/detail-modal.png)
-
----
-
-### 🚀 DevSecOps Pipeline Preview
-
-![DevSecOps](public/assets/DevSecOps.png)
 
 ---
 
