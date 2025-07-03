@@ -6,6 +6,9 @@ This project is a secure Netflix Clone deployed using Kubernetes, Docker, GitHub
 ---
 
 ## 📸 Screenshots
+### 📺 Mini Portal
+
+![Mini Portal](public/assets/mini-portal.png)
 
 ### 🎥 Home Page UI
 
@@ -22,12 +25,6 @@ This project is a secure Netflix Clone deployed using Kubernetes, Docker, GitHub
 ### 🎞️ Detail Modal
 
 ![Detail Modal](public/assets/detail-modal.png)
-
----
-
-### 📺 Mini Portal
-
-![Mini Portal](public/assets/mini-portal.png)
 
 ---
 
