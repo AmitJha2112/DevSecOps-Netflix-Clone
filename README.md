@@ -1,5 +1,5 @@
-# DevSecOps-Netflix-Clone  
-🎬 Deployed Netflix Clone with DevSecOps on AWS! 🚀 Security, CI/CD, Monitoring – Everything in one pipeline.
+## 📊 DevSecOps Project Flow
 
-(⬇️ इसके नीचे तेरा पूरा original content रहने दे — जो detailed steps है, phases, commands वगैरह)
-
+<div align="center">
+  <img src="./public/assets/DevSecOps.png" alt="DevSecOps Project Flow" width="100%">
+</div>
